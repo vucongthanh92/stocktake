@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047535834338",
+    "firebase_url": "https://angular5-b168a.firebaseio.com",
+    "project_id": "angular5-b168a",
+    "storage_bucket": "angular5-b168a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047535834338:android:c8d0fdc568fcad0043babb",
+        "android_client_info": {
+          "package_name": "dev.redis.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047535834338-a0n71lt9rb1os3lp52vch4pmo4b6g5vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJE9Y4Klh5ZwkGo_6Rd2H7c744zihJaSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047535834338-a0n71lt9rb1os3lp52vch4pmo4b6g5vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
